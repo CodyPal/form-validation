@@ -49,7 +49,7 @@ function storeFormData(){
         password: form.website.value
     };
     // do something with the value
-    console.log(user);
+    
 }
 
 function processFormData(e){
